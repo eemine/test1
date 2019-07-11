@@ -1,0 +1,25 @@
+{
+  "name": "test1",
+  "version": "1.0.0",
+  "description": "Test 1 new line next line last line",
+  "main": "test4.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "scripts": {
+    "start": "nodemon test4.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eemine/test1.git"
+  },
+  "author": "Amina Rahimli",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eemine/test1/issues"
+  },
+  "homepage": "https://github.com/eemine/test1#readme"
+}
