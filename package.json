@@ -7,10 +7,12 @@
     "express": "^4.17.1"
   },
   "devDependencies": {
+    "mocha": "^6.1.4",
     "nodemon": "^1.19.1"
   },
   "scripts": {
-    "start": "nodemon test4.js"
+    "start": "nodemon test4.js",
+    "test": "mocha test5.test.js"
   },
   "repository": {
     "type": "git",
