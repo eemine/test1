@@ -16,6 +16,7 @@ const getAllUsers = () => users;
 
 app.get("/users", function(req, res) {
   const allUsers = getAllUsers();
+
   res.send(allUsers);
 });
 
