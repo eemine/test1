@@ -4,7 +4,7 @@
   "description": "Test 1 new line next line last line",
   "main": "test4.js",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "mocha": "^6.1.4",
